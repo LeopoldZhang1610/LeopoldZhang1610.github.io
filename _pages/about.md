@@ -9,14 +9,13 @@ redirect_from:
 
 ## About Me
 
-I am Haichuan Zhang, a Ph.D. student in the School of Computing at the University of Utah.  
-My research focuses on **trustworthy machine learning**, particularly the **security, robustness, and privacy** of generative models and AI-driven systems. I am broadly interested in developing reliable, explainable, and safe ML systems that perform robustly in real-world settings.
+I am Haichuan Zhang, a Ph.D. student in the School of Computing at the University of Utah. My research focuses on **trustworthy machine learning**, particularly the **security, robustness, and privacy** of generative models and AI-driven systems. I am broadly interested in developing reliable, explainable, and safe ML systems that perform robustly in real-world settings.
 
 Before joining the University of Utah, I obtained my **Master’s** and **Bachelor’s** degrees in Computer Science at **Anhui University**, where I developed a strong interest in generative models and AI security.
 
 My current work investigates: 
-- **Backdoor attack and defense** on large language models  
-- **Robustness and alignment** of diffusion models 
+- **Backdoor attack and alignment** on large language models  
+- **Robustness and defense** of diffusion models 
 - Broader security and safety issues in **generative ai**, and **embodied ai** systems  
 
 I enjoy building practical and theoretically grounded methods that enable trustworthy AI.
@@ -24,7 +23,6 @@ I enjoy building practical and theoretically grounded methods that enable trustw
 ---
 
 ## Selected Publications
-*(Full list available on the Publications page. Below are examples based on your CV.)*
 
 - **Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**, ICLR 2026 (in submission).  
 - **SneakyVoice: Against Malicious Voice Replication via Adversarial Attack**, CVPR 2026 (in submission).  
@@ -61,5 +59,5 @@ I enjoy building practical and theoretically grounded methods that enable trustw
 
 ## Contact
 
-If you'd like this to appear in the sidebar, add your preferred email in `_config.yml` under:
+hc.zhang@utah.edu
 
