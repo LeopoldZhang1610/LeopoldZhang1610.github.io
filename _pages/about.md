@@ -22,6 +22,15 @@ I enjoy building practical and theoretically grounded methods that enable trustw
 
 ---
 
+## Selected Publications
+
+- **Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**, arxiv preprint.  
+- **Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks**, SIGMOD 2005.  
+
+---
+
+---
+
 ## Internships
 
 ### iFlytek Research — Research Intern  
