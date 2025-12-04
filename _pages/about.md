@@ -21,13 +21,6 @@ I enjoy building practical and theoretically grounded methods that enable trustw
 
 ---
 
-## Selected Publications
-
-- **Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**, ICLR 2026 (in submission).  
-- **SneakyVoice: Against Malicious Voice Replication via Adversarial Attack**, CVPR 2026 (in submission).  
-
----
-
 ## Internships
 
 ### iFlytek Research — Research Intern  
