@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Haichuan Zhang — PhD Student, University of Utah"
 author_profile: true
 redirect_from: 
   - /about/
