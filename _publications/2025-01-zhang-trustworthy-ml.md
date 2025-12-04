@@ -1,5 +1,5 @@
 ---
-title: "Title of Your Paper"
+title: "Attack as Defense: Run-time Backdoor Implantation for Image Content Protection"
 collection: publications
 permalink: /publication/2025-trustworthy-ml
 date: 2025-01-01
